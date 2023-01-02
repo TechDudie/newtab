@@ -1,0 +1,2 @@
+# newtab
+chrome://newtab
